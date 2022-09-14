@@ -1,0 +1,32 @@
+#ma{
+    width: 278px;
+    height: auto;
+    text-align: center;
+    border:solid;
+    padding: 15px;
+    margin: 0 auto;
+    background-color:rgb(5, 5, 126);
+    color: white;
+}
+.mb{
+    text-align:center ;
+    width: 250px;
+    height: 40px;
+    border: solid;
+    border-radius: 3px;
+    border-style: none;
+    background-color: rgb(19, 238, 19);
+    margin: 0 auto;
+    padding: 10px;
+}
+.mc{
+    background-color: transparent;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+}
+.mc:hover{
+    background-color: transparent;
+    color: red;
+    font-style: italic;
+}
